@@ -1,0 +1,28 @@
+{
+  "seller": [
+    {
+      "name": "Rakesh",
+      "password": "123456",
+      "email": "rksonkar91@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Rakesh Sonkar",
+      "password": "12345",
+      "email": "rksonkar356@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "anil",
+      "email": "sapna2661@gmail.com",
+      "password": "12345",
+      "id": 3
+    },
+    {
+      "name": "Rakesh Sonkar",
+      "email": "rksonkar91@gmail.com",
+      "password": "123",
+      "id": 4
+    }
+  ]
+}
