@@ -1,28 +1,25 @@
 {
   "seller": [
     {
-      "name": "Rakesh",
-      "password": "123456",
-      "email": "rksonkar91@gmail.com",
+      "name": "admin@admin.com",
+      "email": "9118686068",
+      "password": "111111",
       "id": 1
     },
     {
       "name": "Rakesh Sonkar",
-      "password": "12345",
-      "email": "rksonkar356@gmail.com",
+      "email": "sapna2661@gmail.com",
+      "password": "123456",
       "id": 2
     },
     {
-      "name": "anil",
-      "email": "sapna2661@gmail.com",
+      "name": "Rakesh Sonkar",
+      "email": "admin@admin.com",
       "password": "12345",
       "id": 3
-    },
-    {
-      "name": "Rakesh Sonkar",
-      "email": "rksonkar91@gmail.com",
-      "password": "123",
-      "id": 4
     }
+  ],
+  "products": [
+   
   ]
 }
