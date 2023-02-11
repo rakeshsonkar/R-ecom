@@ -1,6 +1,7 @@
 <div class="seller-auth">
     <div class="signup">
         <h1>Add Product</h1>
+        <p class="add-message">{{addProductMessage}}</p>
         <form #productform="ngForm" (ngSubmit)="addProduct(productform.value)" class="common-form">
             <input class="form-input" ngModel name="productname" type="text" placeholder="Enter Product Name" />
             <input class="form-input" ngModel name="price" type="text" placeholder="Enter product price" />

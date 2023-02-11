@@ -20,6 +20,14 @@
     }
   ],
   "products": [
-   
+    {
+      "productname": "OnePlus ",
+      "price": "78888.000",
+      "productcolor": "blue",
+      "category": "Phone",
+      "discription": "gasfgwnkegfnkgewkjgfkjjkrfhjkhfr3",
+      "imageurl": "124698597459623869862439",
+      "id": 1
+    }
   ]
 }

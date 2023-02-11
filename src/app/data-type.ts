@@ -11,9 +11,11 @@ export interface Login{
 export interface product{
     productname:string,
     price:string,
+    color:string,
     productcolor:string,
     category:string,
     discription:string,
-    imageurl:string
+    imageurl:string,
+    id:number
 
 }

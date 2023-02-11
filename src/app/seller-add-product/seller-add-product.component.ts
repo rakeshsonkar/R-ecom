@@ -9,10 +9,11 @@ import { ProductserviceService } from '../services/productservice.service';
 })
 export class SellerAddProductComponent implements OnInit {
   addProductMessage: string|undefined;
-
+  
   constructor(private productservice:ProductserviceService) { }
 
   ngOnInit(): void {
+  
   }
   addProduct(data:product) {
     //console.log(data)
@@ -20,6 +21,7 @@ export class SellerAddProductComponent implements OnInit {
    if (res) {
     this.addProductMessage="Product add successfully!";
    }
+   setTimeout(()=>(this.addProductMessage=undefined),3000)
    });
    
   }
